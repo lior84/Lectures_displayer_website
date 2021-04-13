@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+.header{
+  font-size: 40px;
+  width: 100%;
+  padding: 20px;
+  background: url(images/polygon_header.png);
+}
+
+.zooMoodleHeader{
+  text-align: center;
+  font-size: 70px;
+  color: #0c0000;
+  width: 100%;
+}
+
+.description{
+  color: #020000;
+  text-align: center;
+}
+
+.course_container{
+  margin-left: 200px;
+}
+
+span.lecture_box {
+  margin-top: 50px;
+  margin-left: 50px;
+  display: inline-block;
+  width: 350px;
+  height: 350px;
+  padding: 5px;
+  border: 1px solid #000000;
+  background-color: #d95e2e;
+}
