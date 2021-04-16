@@ -4,7 +4,8 @@ body {
 .header{
   font-size: 40px;
   width: 100%;
-  padding: 20px;
+  padding-top: 1%;
+  /*padding: 20px;*/
   background: url(images/polygon_header.png);
 }
 
@@ -20,17 +21,17 @@ body {
   text-align: center;
 }
 
-.course_container{
-  margin-left: 200px;
+
+.courses_container{
+  margin-left: 100%;
 }
 
 span.lecture_box {
   margin-top: 50px;
-  margin-left: 50px;
+  margin-left: 9%;
   display: inline-block;
   width: 350px;
   height: 350px;
-  padding: 5px;
   border: 1px solid #000000;
   background-color: #d95e2e;
 }
